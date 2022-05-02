@@ -1,0 +1,6 @@
+babe,27,Generic
+bill,90,Generic
+olive,4,Cat
+dog,2,Generic
+Dingo,5,Dog
+Jinx,12,Cat
